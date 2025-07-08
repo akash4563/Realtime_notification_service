@@ -15,7 +15,7 @@ I
 ## Setup Instructions
 ### 1. Clone the Repository
 • bash
-git clone https://github.com/akash4563/notification-service.git
+git clone https://github.com/akash4563/Realtime_notification_service.git
 cd notification-service
 
 Install Dependencies
