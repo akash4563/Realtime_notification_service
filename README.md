@@ -16,7 +16,7 @@ I
 ## * Setup Instructions
 ### 1. Clone the Repository
 • bash
-git clone https://github.com/your-username/notification-service.git
+git clone https://github.com/akash4563/notification-service.git
 cd notification-service
 
 Install Dependencies
